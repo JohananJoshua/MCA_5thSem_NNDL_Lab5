@@ -42,3 +42,5 @@ samples.
 zooming) to further improve the model’s performance.
 - Fine-tune hyperparameters like learning rate, batch size, and the number
 of filters in each layer.
+
+For Solution: Google Colab Link: https://colab.research.google.com/drive/1IxmGCB4gg-y_NJO0t9-sXJK9ld0CaX81?usp=sharing
